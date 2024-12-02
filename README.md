@@ -1,5 +1,4 @@
 <p>陳小堃制作</p>
-<!DOCTYPE html>
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8">
