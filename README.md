@@ -17,7 +17,6 @@
      padding: 15px;
      line-height: 1.1;
    ">
-     <img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃"width="200px" height="200px">
    </div>
    <div style="
      max-width: 600px;
@@ -40,10 +39,13 @@
      line-height: 1.7;
    ">
    <p>我的网站</p>
+   <p>谢谢访问</p>
+   <a href="https://www.anymp4.com/zh-TW/iphone-unlocker/">苹果开锁工具</a>
+   <a href="https://www.aichunjing.com/win11/">win系统软件下载</a>	   
    <a href="https://hp30243681.jzfkw.net/">咨询</a>
   </div>
    <img src='https://tse3-mm.cn.bing.net/th/id/OIP-C.0_ZCZdJ82kL_6pgWzZQtWgHaEo?rs=1&pid=ImgDetMain' a1t="陳小堃" width="px"
   height="1190px">
-  </div>
+
   </body>
 </html>
