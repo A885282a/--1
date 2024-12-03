@@ -1,17 +1,4 @@
 <p>陳小堃制作</p>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>陳小堃制作</title>
-    <style>  
-      body {
-        margin: 0;
-      }
-    </style>
-  </head>
-  <body>
-
      <p>不能瞎搞需要视频教程私信我</p>
      <p>非常简单有手都行</p>
      <p>联系方式放最下面</p>
