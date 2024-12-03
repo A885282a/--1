@@ -18,7 +18,8 @@
      line-height: 1.1;
    ">
    </div>
-<img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃"width="200px" height="200px">
+<img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃" width="px"
+  height="1190px">
    <div style="
      max-width: 600px;
      margin: 30px auto;
