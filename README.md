@@ -19,7 +19,7 @@
    ">
    </div>
 <img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃" width="px"
-  height="1190px">
+  height="119px">
    <div style="
      max-width: 600px;
      margin: 30px auto;
