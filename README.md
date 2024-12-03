@@ -18,8 +18,7 @@
      line-height: 1.1;
    ">
    </div>
-  <img src='https://tse3-mm.cn.bing.net/th/id/OIP-C.0_ZCZdJ82kL_6pgWzZQtWgHaEo?rs=1&pid=ImgDetMain' a1t="陳小堃" width="px"
-  height="1190px">
+  <img src='D:\logo图片\20241124204116.png">
    <div style="
      max-width: 600px;
      margin: 30px auto;
