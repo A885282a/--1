@@ -21,5 +21,3 @@
      谢谢访问
    <img src='https://tse3-mm.cn.bing.net/th/id/OIP-C.0_ZCZdJ82kL_6pgWzZQtWgHaEo?rs=1&pid=ImgDetMain' a1t="陳小堃" width="px"
   height="1190px">
-  </body>
-</html>
