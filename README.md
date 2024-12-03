@@ -11,22 +11,7 @@
     </style>
   </head>
   <body>
-	 <div style="
-      max-width: 70px;
-     margin: 80px auto;
-     padding: 15px;
-     line-height: 1.1;
-   ">
-   <img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃" width="px"
-  height="119px">
-   </div>
-   <div style="
-     max-width: 600px;
-     margin: 30px auto;
-     padding: 15px;
-     line-height: 1.7;
-     
-   ">
+
      <p>不能瞎搞需要视频教程私信我</p>
      <p>非常简单有手都行</p>
      <p>联系方式放最下面</p>
