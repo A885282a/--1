@@ -17,8 +17,8 @@
      padding: 15px;
      line-height: 1.1;
    ">
+ <img src='https://pic49.photophoto.cn/20181008/0007020184791665_b.jpg'a1t="陳小堃"width="200px" height="200px">
    </div>
-  <img src='D:\logo图片\20241124204116.png">
    <div style="
      max-width: 600px;
      margin: 30px auto;
