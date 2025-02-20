@@ -19,7 +19,6 @@
 	   	   
    <p><a href="https://hp30243681.jzfkw.net/">咨询</a></p>
 	    <p>谢谢访问</p>
-  </div>
    <img src='https://tse3-mm.cn.bing.net/th/id/OIP-C.0_ZCZdJ82kL_6pgWzZQtWgHaEo?rs=1&pid=ImgDetMain' a1t="陳小堃" width="px"
   height="1190px">
 
