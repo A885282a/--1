@@ -3,27 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <style>  
-      body {
-        margin: 0;
-      }
-    </style>
   </head>
-  <body>
-	 <div style="
-      max-width: 70px;
-     margin: 80px auto;
-     padding: 15px;
-     line-height: 1.1;
-   ">
-   </div>
-   <div style="
-     max-width: 600px;
-     margin: 30px auto;
-     padding: 15px;
-     line-height: 1.7;
-     
-   ">
+   <div>
      <p>不能瞎搞需要视频教程私信我</p>
      <p>非常简单有手都行</p>
      <p>联系方式放最下面</p>
@@ -31,12 +12,6 @@
      <p>qq：3481255411</p>
      <p>wx：CMK20070802H</p>
    </div>
-   <div style="
-   max-width: 70px;
-     margin: 30px auto;
-     padding: 15px;
-     line-height: 1.7;
-   ">
    <p>我的网站</p>
    <p><a href="https://www.anymp4.com/zh-TW/iphone-unlocker/">苹果开锁工具</a></p>
 
