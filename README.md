@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -164,7 +163,7 @@
                     <!-- 个人照片 -->
                     <div class="relative">
                         <div class="relative z-10 rounded-2xl overflow-hidden shadow-2xl transform hover:scale-[1.02] transition-custom">
-                            <img src="https://picsum.photos/seed/person/600/700" alt="李明" class="w-full h-auto">
+                            <img src="https://picsum.photos/seed/person/600/700" alt="陳小堃" class="w-full h-auto">
                         </div>
                         <div class="absolute -bottom-6 -right-6 w-64 h-64 bg-primary/10 rounded-full -z-10"></div>
                         <div class="absolute -top-6 -left-6 w-32 h-32 bg-secondary/10 rounded-full -z-10"></div>
@@ -184,19 +183,19 @@
                         <div class="grid grid-cols-2 gap-4 mb-8">
                             <div class="flex items-center">
                                 <i class="fa fa-calendar text-primary mr-3"></i>
-                                <span>1990年3月15日</span>
+                                <span>2007年8月2日</span>
                             </div>
                             <div class="flex items-center">
                                 <i class="fa fa-map-marker text-primary mr-3"></i>
-                                <span>上海市浦东新区</span>
+                                <span>铜仁市松桃区</span>
                             </div>
                             <div class="flex items-center">
                                 <i class="fa fa-envelope text-primary mr-3"></i>
-                                <span>liming@example.com</span>
+                                <span>1686828049@qq.com</span>
                             </div>
                             <div class="flex items-center">
                                 <i class="fa fa-phone text-primary mr-3"></i>
-                                <span>+86 138 0000 0000</span>
+                                <span>+86 19013885282</span>
                             </div>
                         </div>
                         
