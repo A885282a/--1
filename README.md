@@ -555,7 +555,7 @@
                             
                             <div class="mb-6">
                                 <label for="email" class="block text-sm font-medium text-gray-700 mb-2">您的邮箱</label>
-                                <input type="email" id="email" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-custom" placeholder="zhangsan@example.com">
+                                <input type="email" id="email" class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-custom" placeholder="1686828049@qq.com">
                             </div>
                             
                             <div class="mb-6">
