@@ -850,7 +850,7 @@
             const skillChart = new Chart(ctx, {
                 type: 'radar',
                 data: {
-                    labels: ['沟通能力', '团队协作', '问题解决', '创造力', '时间管理', '领导力'],
+                    labels: ['科技数码', '团队协作', '问题解决', '创造力', '时间管理', '领导力'],
                     datasets: [{
                         label: '专业技能',
                         data: [90, 85, 80, 75, 85, 70],
