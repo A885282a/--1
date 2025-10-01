@@ -305,7 +305,7 @@
                             <div class="text-4xl mb-3 text-primary">
                                 <i class="fa fa-github"></i>
                             </div>
-                            <h4 class="font-medium">Git</h4>
+                            <h4 class="font-medium">PPT制作</h4>
                         </div>
                         
                         <!-- 工具2 -->
@@ -321,7 +321,7 @@
                             <div class="text-4xl mb-3 text-primary">
                                 <i class="fa fa-paint-brush"></i>
                             </div>
-                            <h4 class="font-medium">Figma</h4>
+                            <h4 class="font-medium">网页设计</h4>
                         </div>
                         
                         <!-- 工具4 -->
@@ -329,7 +329,7 @@
                             <div class="text-4xl mb-3 text-primary">
                                 <i class="fa fa-database"></i>
                             </div>
-                            <h4 class="font-medium">MongoDB</h4>
+                            <h4 class="font-medium">网络搭建</h4>
                         </div>
                         
                         <!-- 工具5 -->
@@ -337,7 +337,7 @@
                             <div class="text-4xl mb-3 text-primary">
                                 <i class="fa fa-cloud"></i>
                             </div>
-                            <h4 class="font-medium">AWS</h4>
+                            <h4 class="font-medium">3D建模</h4>
                         </div>
                         
                         <!-- 工具6 -->
@@ -345,7 +345,7 @@
                             <div class="text-4xl mb-3 text-primary">
                                 <i class="fa fa-bolt"></i>
                             </div>
-                            <h4 class="font-medium">Firebase</h4>
+                            <h4 class="font-medium">图文赚钱</h4>
                         </div>
                     </div>
                 </div>
